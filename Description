@@ -1,0 +1,3 @@
+IQR-based outlier detection and removal in pandas: trimming vs capping. CampusX 100 Days of ML
+
+Outlier detection using the IQR method in Python. Covers quartiles, lower and upper fences, detecting outliers with pandas, and handling them with trimming and capping. Part of CampusX 100 Days of Machine Learning.
